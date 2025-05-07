@@ -1,4 +1,4 @@
-MIT License
+Custom Non-Commercial License
 
 Copyright (c) 2025 Joyce Meeks
 
@@ -9,8 +9,24 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. COMMERCIAL USE RESTRICTION:  
+   Any commercial use, including but not limited to sale, SaaS integration, 
+   or inclusion in paid products, requires explicit written permission 
+   from the copyright holder (fxiaoyu97@gmail.com).  
+
+3. DERIVATIVE WORKS:  
+   If a derivative work includes more than [20%] of this Software's code 
+   or content, the creator must either:  
+   a) Release the derivative under this same license, or  
+   b) Obtain a commercial license from the copyright holder.  
+
+4. COMMERCIAL LICENSING TERMS:  
+   - Fees: Commercial licenses start at $[X] per year.  
+   - Redistribution: Additional fees may apply for distributed copies.  
+   - Negotiation: Contact the author for enterprise/volume terms.  
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
